@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-arn0i9.kujang138.shop/sitemap.xml
